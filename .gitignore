@@ -1,0 +1,10 @@
+# Raw downloads (re-downloadable, too large for GitHub)
+Data/pipeline389/
+Data/well389/
+Data/tl_2026_us_county/
+Data/tl_2026_48389_roads/
+Data/Texas.geojson
+Data/Zip Files/
+
+# macOS system files
+.DS_Store
